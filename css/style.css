@@ -60,7 +60,6 @@ body {
   padding: 1.875rem;
   text-align: right;
   box-shadow: 0 1rem 1.5rem -0.5rem var(--box-shadow);
-  margin-bottom: 1.875rem;
 }
 
 .card:hover,
@@ -122,5 +121,9 @@ body {
   .title,
   .bold-text-title {
     font-size: 1.375rem;
+  }
+
+  .card {
+    margin-bottom: 1.875rem;
   }
 }
